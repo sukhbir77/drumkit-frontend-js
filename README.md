@@ -17,4 +17,4 @@ The Drum Kit Game offers a virtual drumming experience where users can play diff
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/sukhbir77/DrumKit-jQuery-.git
+   git clone https://github.com/sukhbir77/drumkit-frontend-js.git
